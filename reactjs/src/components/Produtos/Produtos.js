@@ -15,7 +15,7 @@ function Produtos(nome,imagem, valor,apartir,un) {
             <Header/>
             <Cards nome='Cartão de visita' imagem= {cartao} apartir="A partir de" valor="R$ 80,00"un="500 un"/>
             <Cards nome='Banner' imagem= {banner} apartir="A partir de" valor="R$ 60,00" un="1 un"/>
-            <Cards nome='Envelope Personalizado' imagem= {envelope} apartir="A partir de" valor="R$140,00" un="500 un"/>
+            <Cards nome='Envelope Personalizado' imagem= {envelope} apartir="A partir de" valor="R$ 140,00" un="500 un"/>
             <Cards nome='Pastas' imagem= {pasta} apartir="A partir de" valor="R$ 400,00" un="500 un" />
             <Cards nome='Folheto' imagem= {folheto} apartir="A partir de" valor="R$ 200,00" un="1000 un"/>
             <Cards nome='Blocos' imagem= {blocos} apartir="A partir de" valor="R$ 140,00" un="10 un"/>
